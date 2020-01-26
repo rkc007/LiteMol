@@ -79,7 +79,7 @@ LiteMol is written in TypeScript and needs to be compiled to JavaScript before u
     npm install
     gulp
 
-On Windows, it might be required to install the package `windows-build-tools` before the `npm intall` command:
+On Windows, it might be required to install the package `windows-build-tools` before the `npm install` command:
 
     npm install windows-build-tools -g
 
